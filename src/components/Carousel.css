@@ -1,0 +1,21 @@
+.rec.rec-arrow {
+  color: #239bf7;
+}
+
+.rec.rec-arrow:hover {
+  background-color: #239bf7;
+}
+
+.rec .rec-dot {
+  background-color: #ccc;
+  border: 1px solid #239bf7;
+}
+
+.rec .rec-dot:focus {
+  background-color: #239bf7;
+}
+
+.rec-carousel-item:focus {
+  outline: none;
+  box-shadow: inset 0 0 1px 1px lightgrey;
+}
